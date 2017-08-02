@@ -1,0 +1,19 @@
+{
+  "name": "spruce",
+  "version": "1.0.0",
+  "description": "Organize bookmarks and notes together in a graph of trees",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/walkermalling/spruce.git"
+  },
+  "author": "Walker Malling <walker@rdcdr.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/walkermalling/spruce/issues"
+  },
+  "homepage": "https://github.com/walkermalling/spruce#readme"
+}
